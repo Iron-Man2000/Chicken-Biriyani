@@ -1,0 +1,5 @@
+Meat of chicken is the prime ingredient with rice. As is common in dishes of the Indian subcontinent, vegetables are sometimes also used when preparing chicken biryani. Corn may be used depending on the season and availability. Navratan biryani tends to use sweeter, richer ingredients such as cashews, kismis and fruits, such as apples and pineapples.
+
+The spices and condiments used in chicken biryani may include ghee (clarified butter), nutmeg, mace, pepper, cloves, cardamom, cinnamon, bay leaves, coriander, mint leaves, ginger, onions, tomatoes, green chilies, and garlic. The premium varieties include saffron. In all biryanis, the main ingredient that accompanies the spices is the chicken or goat meat; special varieties might use beef or seafood instead. The dish may be served with dahi chutney or raita, korma, curry, a sour dish of aubergine (brinjal), boiled egg, and salad.
+
+To start cooking, read recipe.md file.
